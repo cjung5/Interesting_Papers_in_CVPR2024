@@ -1,6 +1,50 @@
 # CVPR_2024_Papers
 
-Keywords = [6D_Pose_Estimation, Pose_Estimation, Dataset, 3D_Human-Object_Interaction, Human-Human_Interaction, 3D_Object, Video-Language, LLM, Egocentric, Motion_Capture, Synthetic, Object_Detection, Object_Segmentation, Door_Detection, Quantization, Mask, Calibration, State_Space_Model, Human_Motion, Visual_Adaptation, Diffusion, Semantic_Segmentation, Unlearning, Action_Segmentation, Video_Captioning, Video_Understanding, Action_Understanding, Out-of-Distribution_Generalization, Out-of-Distribution_Generalization, Image_Space_Prior, Scanpath, Event_Camera, Spiking, 3D_Capture, Conversational_Graph, Exocentric, Adversarial, Backdoor_Attack, Contrastive_Learning]
+****Please check the tags and search papers based on your interests.**
+* NOTE: These papers are selected based on my interests, but you may find some great papers that are aligned to your interests as well.
+
+Keywords
+- 3D_Capture
+- 3D_Human-Object_Interaction
+- 3D_Object
+- 6D_Pose_Estimation
+- Action_Segmentation
+- Action_Understanding
+- Adversarial
+- Backdoor_Attack
+- Calibration
+- Contrastive_Learning
+- Conversational_Graph
+- Dataset
+- Diffusion
+- Door_Detection
+- Egocentric
+- Event_Camera
+- Exocentric
+- Human-Human_Interaction
+- Human_Motion
+- Image_Space_Prior
+- LLM
+- Mask
+- Motion_Capture
+- Object_Detection
+- Object_Segmentation
+- Out-of-Distribution_Generalization
+- Pose_Estimation
+- Quantization
+- Scanpath
+- Semantic_Segmentation
+- Spiking
+- State_Space_Model
+- Synthetic
+- Unlearning
+- Video-Language
+- Video_Captioning
+- Video_Understanding
+- Visual_Adaptation
+
+
+## Papers
 
 * [HouseCat6D - A Large-Scale Multi-Modal Category Level 6D Object Perception Dataset with Household Objects in Realistic Scenarios](https://openaccess.thecvf.com/content/CVPR2024/papers/Jung_HouseCat6D_-_A_Large-Scale_Multi-Modal_Category_Level_6D_Object_Perception_CVPR_2024_paper.pdf): [Official Cite](https://sites.google.com/view/housecat6d)
     - #6D_Pose_Estimation, #Dataset
